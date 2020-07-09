@@ -1,6 +1,10 @@
-# firstapp
+# NoteIt app
 
 A new Flutter application.
+
+This App has beautiful and easy UI for login Page, Registration Page and
+NoteIt Page with all validations and Firebase connection for signIn methods and
+store data into firebase with cloud firestore database.
 
 ## Getting Started
 
