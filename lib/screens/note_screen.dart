@@ -10,6 +10,15 @@ class NoteScreen extends StatefulWidget {
 class _NoteScreenState extends State<NoteScreen> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return MaterialApp(
+      home: Scaffold(
+        appBar: AppBar(
+          title: Text('NoteIt'),
+        ),
+        body: SafeArea(
+          child: Text('Hello'),
+        ),
+      ),
+    );
   }
 }

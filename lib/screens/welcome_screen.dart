@@ -58,7 +58,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> with SingleTickerProvider
                   ),
                 ),
                 ColorizeAnimatedTextKit(
-                  text: ['Note Down'],
+                  text: ['Note-It'],
                   textStyle: TextStyle(
                     fontSize: 45.0,
                     fontWeight: FontWeight.w900,
