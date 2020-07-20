@@ -16,6 +16,7 @@ class NoteIt extends StatelessWidget {
         RegistrationScreen.id : (context) => RegistrationScreen(),
         LoginScreen.id : (context) => LoginScreen(),
         NoteScreen.id : (context) => NoteScreen(),
+        CreateNote.id : (context) => CreateNote(),
       },
     );
   }
